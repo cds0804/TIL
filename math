@@ -1,15 +1,24 @@
 Math
 
-Date: Feb. 3th, 2020
-- Langrange multiplier
-- Karush-Kuhn-Tucker
-
-Date: Feb. 4th, 2020
-- Joint probability
-- marginal probability
-- conditional pribability
-- independent
-- Bayesian rule
+Date: Feb. 6th, 2020
+- distribution
+- count plot
+- histogram
+- descriptive statistics
+- sample mean
+- sample median
+- sample mode(most frequent value)
+- uni-modal, multi-modal
+- symmetric
+- sample variance(sample standard deviation)
+- unbiased sample variance
+- sample skewness
+- sample kurtosis
+- sample moment
+- sample centered moment
+- discrete random variable
+- continuous random variable
+- E[X] : expectation
 
 Date: Feb. 5th, 2020
 - function
@@ -23,3 +32,16 @@ Date: Feb. 5th, 2020
 - softplus function
 - multivariate function
 - softmax function
+
+Date: Feb. 4th, 2020
+- Joint probability
+- marginal probability
+- conditional pribability
+- independent
+- Bayesian rule
+
+Date: Feb. 3th, 2020
+- Langrange multiplier
+- Karush-Kuhn-Tucker
+
+
