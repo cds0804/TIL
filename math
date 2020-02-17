@@ -1,5 +1,34 @@
 Math
 
+Date: Feb. 17th, 2020
+- Chi-squared test
+- normality test : scipy
+- Kolmogorov-Smirnov test
+- Shapiro-Wilk test
+- Anderson-Darling test
+- D'Agostino's K-squared test
+- StatsModels :
+- Kolmogorov-Smirnov test
+- Omnibus Normality test
+- Jarque-Bera test
+- Lilliefors test
+- entropy : H[]
+- variable length encoding
+- Gini impurity
+- joint entropy
+- conditional entropy
+- cross entropy
+- Kullback-Leibler divergence
+
+Date: Feb. 16th, 2020
+- testing : statistical hypothesis testing
+- parameter testing
+- null hypothesis = H0 : equality
+- alternative hypothesis = Ha
+- test statistics
+- p-value
+- two-sided test p-value
+
 Date: Feb. 15th, 2020
 - review math
 - sequence : sum, product, definition
