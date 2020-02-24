@@ -1,0 +1,6 @@
+TIL
+
+Date: Feb. 24th, 2020
+- linear regression model
+- OLS(Ordinary Least Squares): argmin_RSS(residual sum of squares)
+- statsmodels
