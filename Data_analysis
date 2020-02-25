@@ -1,5 +1,11 @@
 TIL
 
+Date: Feb. 25th, 2020
+- data scaling
+- condition number
+- categorical independent variable
+- partial regression
+
 Date: Feb. 24th, 2020
 - linear regression model
 - OLS(Ordinary Least Squares): argmin_RSS(residual sum of squares)
