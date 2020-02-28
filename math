@@ -1,5 +1,10 @@
 TIL : Math
 
+Date: Feb. 28th, 2020
+- review
+- entropy and cross entropy
+- mutual information
+
 Date: Feb. 23th, 2020
 - correlation, pearson r
 - supervised learning : SVC(Support Vector Machine)
@@ -30,8 +35,7 @@ Date: Feb. 17th, 2020
 - cross entropy
 - Kullback-Leibler divergence
 - mutual information
-- MIC : miximal information coefficient
-- 
+- MIC : miximal information coefficient- 
 
 Date: Feb. 16th, 2020
 - testing : statistical hypothesis testing
