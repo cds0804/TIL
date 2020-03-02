@@ -1,5 +1,12 @@
 TIL : Math
 
+Date: Mar. 02th, 2020
+- review map, filter, reduce(form functools import reduce
+- idx
+- linspace, logspace
+- numpy random : see, rand, randn, randint, suffle, choice
+- concastenate, c_, r_)
+
 Date: Feb. 28th, 2020
 - review
 - entropy and cross entropy
