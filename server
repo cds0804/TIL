@@ -1,5 +1,16 @@
 TIL : server
 
+Date : Mar. 03th, 2020
+- review pandas
+- describe()
+- apply()
+- reset_index()
+- concat
+- groupby : 1. use size(), 2. use agg()
+- reset_index
+- sort
+- merge
+
 Date : Mar. 02th, 2020
 - setting config conda $PATH
 
