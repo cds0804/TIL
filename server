@@ -10,6 +10,8 @@ Date : Mar. 03th, 2020
 - reset_index
 - sort
 - merge
+- pivot
+- pivot table
 
 Date : Mar. 02th, 2020
 - setting config conda $PATH
